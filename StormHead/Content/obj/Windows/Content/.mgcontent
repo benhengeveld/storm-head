@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/fonts/finalScoreFont.spritefont</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/fonts/gameOverFont.spritefont</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/fonts/infoFont.spritefont</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/fonts/menuFont.spritefont</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/fonts/pointsFont.spritefont</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/fonts/selectedMenuFont.spritefont</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/enemys/dark-ghost.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/enemys/white-ghost.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/HowToPlay.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/pixel.jpg</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/stormhead/Chain-Attack.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/stormhead/damaged.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/stormhead/dash-teleport.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/stormhead/Idle.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/stormhead/imorpved-run.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/stormhead/Run-Hop.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/stormhead/Supercharged-attack.png</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/images/wall.jpg</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/sounds/game-music.mp3</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/sounds/ghost-attack-sound.wav</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/sounds/laser-sound.wav</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/sounds/super-attack-sound.wav</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/sounds/sword-slash.wav</File>
+    <File>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/sounds/teleport-sound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

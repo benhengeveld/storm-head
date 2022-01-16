@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/sounds/teleport-sound.wav</SourceFile>
+  <SourceTime>2021-12-07T19:06:58.5622463-05:00</SourceTime>
+  <DestFile>D:/Visual_Studio_2019_Workspace/PROG2370 - Game/Assignments/StormHead/StormHead/Content/bin/Windows/sounds/teleport-sound.xnb</DestFile>
+  <DestTime>2021-12-07T20:58:17.4484389-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
